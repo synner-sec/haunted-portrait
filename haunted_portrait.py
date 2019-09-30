@@ -18,8 +18,8 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(18, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 GPIO.setup(24, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 GPIO.setup(22, GPIO.IN)
-audio1_path = '/home/pi/Desktop/new_intro.mp3'
-audio2_path = '/home/pi/Desktop/new_exit.mp3'
+audio1_path = 'path to 1st mp3 file'
+audio2_path = 'path to 2nd mp3 file'
 files = sys.argv[1]
 slength = '1440'
 swidth = '900'
