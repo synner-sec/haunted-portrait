@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-#Written by Jason Smith
-#Nightmare on 17th Street Haunted House Kitchen Intro
 #This setup allows for an intro mp3 to be played when button is presses, and for the portrait to trigger when PIR is activated
 
 # Imports
